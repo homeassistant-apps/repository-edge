@@ -28,9 +28,9 @@ This repository was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-If you are more interested in stable releases of my add-ons:
+If you are more interested in stable releases of our apps (add-ons):
 
-<https://github.com/brenner-tobias/ha-addons>
+<https://github.com/homeassistant-apps/repository>
 
 ## Installation
 
