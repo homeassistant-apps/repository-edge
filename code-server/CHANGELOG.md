@@ -1,4 +1,8 @@
 # Changelog since v2025.11.1
+- Merge pull request #987 from homeassistant-apps/elcajon-p1
+
+Update Readme 
+- Update Readme 
 - Merge pull request #986 from homeassistant-apps/elcajon-p1
 
 Update Docs 
