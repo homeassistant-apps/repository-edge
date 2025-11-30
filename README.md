@@ -138,9 +138,9 @@ SOFTWARE.
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/tree/2fce066
-[addon-doc-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/blob/2fce066/README.md
-[cloudflared-issue]: https://github.com/brenner-tobias/addon-cloudflared/issues
+[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/2fce066
+[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/2fce066/README.md
+[cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
 [cloudflared-version-shield]: https://img.shields.io/badge/version-2fce066-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
