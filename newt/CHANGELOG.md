@@ -1,5 +1,5 @@
-# Changelog since v2025.11.2
-- Merge pull request #32 from homeassistant-apps/elcajon-p1
+# Changelog since v2025.11.3
+- Merge pull request #33 from homeassistant-apps/update-ci
 
-Update Readme and CI 
-- Update Readme and CI 
+Update CI to org repo 
+- Update CI to org repo 
