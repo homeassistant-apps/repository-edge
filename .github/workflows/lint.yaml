@@ -13,4 +13,4 @@ on:
 
 jobs:
   workflows:
-    uses: hassio-addons/workflows/.github/workflows/repository-lint.yaml@main
+    uses: homeassistant-apps/workflows/.github/workflows/repository-lint.yaml@main

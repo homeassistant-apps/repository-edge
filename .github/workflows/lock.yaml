@@ -9,4 +9,4 @@ on:
 
 jobs:
   workflows:
-    uses: hassio-addons/workflows/.github/workflows/lock.yaml@main
+    uses: homeassistant-apps/workflows/.github/workflows/lock.yaml@main
