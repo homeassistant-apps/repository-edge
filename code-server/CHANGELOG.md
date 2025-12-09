@@ -1,20 +1,6 @@
-# Changelog since v2025.11.1
-- Merge pull request #987 from homeassistant-apps/elcajon-p1
+# Changelog
 
-Update Readme 
-- Update Readme 
-- Merge pull request #986 from homeassistant-apps/elcajon-p1
+## Unreleased changes since 2025.11.2 - 2025-11-29
 
-Update Docs 
-- update config url 
-- Update Docs 
-- Merge pull request #984 from homeassistant-apps/renovate/prettier-prettier-vscode-12.x
-
-⬆️ Update prettier/prettier-vscode to v12 
-- Update 
-- ⬆️ Update prettier/prettier-vscode to v12 
-- Merge pull request #985 from homeassistant-apps/elcajon-p1
-
-🎉 Move app to organization 
-- update 
-- 🎉 Move app to organization 
+- Merge pull request #988 from homeassistant-apps/elcajon-p1
+- Update CI
