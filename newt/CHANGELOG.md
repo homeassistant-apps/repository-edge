@@ -1,13 +1,17 @@
 # Changelog
 
-## Unreleased changes since 2025.11.3 - 2025-11-29
+## 1.0.0 - 2025-12-12
 
-- Merge pull request #36 from homeassistant-apps/pr-rel-drafter-template
-- Modify release drafter template
-- Merge pull request #34 from homeassistant-apps/elcajon-p1
-- Merge pull request #35 from homeassistant-apps/copilot/sub-pr-34
-- Remove unused markdown link reference from LICENSE.md
-- Initial plan
-- Update copyright
-- Merge pull request #33 from homeassistant-apps/update-ci
-- Update CI to org repo
+### 🧰 Maintenance
+
+- Update CI to org repo [@elcajon](https://github.com/elcajon) (#33)
+- Modify release drafter template [@lmagyar](https://github.com/lmagyar) (#36)
+
+### 📚 Documentation
+
+- [WIP] Address feedback on copyright update in PR #34 @[copilot-swe-agent[bot]](https://github.com/apps/copilot-swe-agent) (#35)
+- Update copyright [@elcajon](https://github.com/elcajon) (#34)
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update newt to v1.7.0 @[renovate[bot]](https://github.com/apps/renovate) (#37)
