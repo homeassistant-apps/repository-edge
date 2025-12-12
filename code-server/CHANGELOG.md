@@ -10,3 +10,4 @@
 
 - ⬆️ Update cdr/code-server to v4.106.3 @[renovate[bot]](https://github.com/apps/renovate) (#990)
 - ⬆️ Update esphome to v2025.11.5 @[renovate[bot]](https://github.com/apps/renovate) (#991)
+- ⬆️ Update home-assistant/cli to v4.45.0 @[renovate[bot]](https://github.com/apps/renovate) (#992)
