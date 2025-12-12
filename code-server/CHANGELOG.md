@@ -1,6 +1,12 @@
 # Changelog
 
-## Unreleased changes since 2025.11.2 - 2025-11-29
+## Unreleased changes since 4.2.3 - 2025-12-09
 
-- Merge pull request #988 from homeassistant-apps/elcajon-p1
-- Update CI
+### 🧰 Maintenance
+
+- Update CI [@elcajon](https://github.com/elcajon) (#988)
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update cdr/code-server to v4.106.3 @[renovate[bot]](https://github.com/apps/renovate) (#990)
+- ⬆️ Update esphome to v2025.11.5 @[renovate[bot]](https://github.com/apps/renovate) (#991)
