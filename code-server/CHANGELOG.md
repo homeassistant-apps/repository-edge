@@ -13,3 +13,5 @@
 - ⬆️ Update home-assistant/cli to v4.45.0 @[renovate[bot]](https://github.com/apps/renovate) (#992)
 - ⬆️ Update tailscale/tailscale to v1.92.1 @[renovate[bot]](https://github.com/apps/renovate) (#993)
 - ⬆️ Update mikefarah/yq to v4.50.1 @[renovate[bot]](https://github.com/apps/renovate) (#995)
+- ⬆️ Update tailscale/tailscale to v1.92.3 @[renovate[bot]](https://github.com/apps/renovate) (#996)
+- ⬆️ Update esphome to v2025.12.0 @[renovate[bot]](https://github.com/apps/renovate) (#997)
