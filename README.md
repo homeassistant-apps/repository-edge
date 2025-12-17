@@ -126,10 +126,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-code-server]: https://github.com/homeassistant-apps/app-code-server/tree/495a41c
-[addon-doc-code-server]: https://github.com/homeassistant-apps/app-code-server/blob/495a41c/README.md
+[addon-code-server]: https://github.com/homeassistant-apps/app-code-server/tree/bb21f0f
+[addon-doc-code-server]: https://github.com/homeassistant-apps/app-code-server/blob/bb21f0f/README.md
 [code-server-issue]: https://github.com/homeassistant-apps/app-code-server/issues
-[code-server-version-shield]: https://img.shields.io/badge/version-495a41c-blue.svg
+[code-server-version-shield]: https://img.shields.io/badge/version-bb21f0f-blue.svg
 [code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

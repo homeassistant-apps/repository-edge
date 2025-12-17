@@ -15,3 +15,4 @@
 - ⬆️ Update mikefarah/yq to v4.50.1 @[renovate[bot]](https://github.com/apps/renovate) (#995)
 - ⬆️ Update tailscale/tailscale to v1.92.3 @[renovate[bot]](https://github.com/apps/renovate) (#996)
 - ⬆️ Update esphome to v2025.12.0 @[renovate[bot]](https://github.com/apps/renovate) (#997)
+- ⬆️ Update cdr/code-server to v4.107.0 @[renovate[bot]](https://github.com/apps/renovate) (#998)
