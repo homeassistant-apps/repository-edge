@@ -17,3 +17,4 @@
 - ⬆️ Update esphome to v2025.12.0 @[renovate[bot]](https://github.com/apps/renovate) (#997)
 - ⬆️ Update cdr/code-server to v4.107.0 @[renovate[bot]](https://github.com/apps/renovate) (#998)
 - ⬆️ Update DavidAnson/vscode-markdownlint to v0.61.1 @[renovate[bot]](https://github.com/apps/renovate) (#999)
+- ⬆️ Update esphome to v2025.12.1 @[renovate[bot]](https://github.com/apps/renovate) (#1000)
