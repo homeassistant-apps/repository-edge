@@ -5,6 +5,7 @@
 ### 🧰 Maintenance
 
 - Modify release drafter template [@lmagyar](https://github.com/lmagyar) (#956)
+- Run release drafter as last job in CI [@lmagyar](https://github.com/lmagyar) (#959)
 
 ### ⬆️ Dependency updates
 
