@@ -4,7 +4,7 @@
 
 ### 🧰 Maintenance
 
-- Update CI [@elcajon](https://github.com/elcajon) (#988)
+- Run release drafter as last job in CI [@lmagyar](https://github.com/lmagyar) (#1001)
 
 ### ⬆️ Dependency updates
 
