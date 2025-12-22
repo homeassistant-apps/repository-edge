@@ -1,5 +1,5 @@
 name: Advanced Code Server
-version: dff0691
+version: 33817fb
 slug: code-server
 description: Code Server experience integrated in the Home Assistant frontend.
 url: https://github.com/homeassistant-apps/app-code-server
