@@ -5,3 +5,7 @@
 ### 🧰 Maintenance
 
 - Run release drafter as last job in CI [@lmagyar](https://github.com/lmagyar) (#38)
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update newt to v1.8.0 @[renovate[bot]](https://github.com/apps/renovate) (#39)
