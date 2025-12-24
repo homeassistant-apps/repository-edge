@@ -10,6 +10,7 @@
 ### 📚 Documentation
 
 - Remove legacy architectures, Remove broken badges [@brenner-tobias](https://github.com/brenner-tobias) (#960)
+- Add LICENSE.md [@brenner-tobias](https://github.com/brenner-tobias) (#961)
 
 ### ⬆️ Dependency updates
 
