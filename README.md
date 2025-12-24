@@ -135,10 +135,10 @@ SOFTWARE.
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/11aba13
-[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/11aba13/README.md
+[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/7436556
+[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/7436556/README.md
 [cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-11aba13-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-7436556-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

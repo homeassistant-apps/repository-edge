@@ -7,6 +7,10 @@
 - Modify release drafter template [@lmagyar](https://github.com/lmagyar) (#956)
 - Run release drafter as last job in CI [@lmagyar](https://github.com/lmagyar) (#959)
 
+### 📚 Documentation
+
+- Remove legacy architectures, Remove broken badges [@brenner-tobias](https://github.com/brenner-tobias) (#960)
+
 ### ⬆️ Dependency updates
 
 - ⬆️ Update docker/setup-buildx-action action to v3.12.0 @[renovate[bot]](https://github.com/apps/renovate) (#957)
