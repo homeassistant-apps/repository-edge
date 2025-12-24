@@ -9,3 +9,4 @@
 ### ⬆️ Dependency updates
 
 - ⬆️ Update newt to v1.8.0 @[renovate[bot]](https://github.com/apps/renovate) (#39)
+- ⬆️ Update newt to v1.8.1 @[renovate[bot]](https://github.com/apps/renovate) (#40)

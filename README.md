@@ -144,10 +144,10 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-newt]: https://github.com/homeassistant-apps/app-newt/tree/fa8dde8
-[addon-doc-newt]: https://github.com/homeassistant-apps/app-newt/blob/fa8dde8/README.md
+[addon-newt]: https://github.com/homeassistant-apps/app-newt/tree/1b7ca11
+[addon-doc-newt]: https://github.com/homeassistant-apps/app-newt/blob/1b7ca11/README.md
 [newt-issue]: https://github.com/homeassistant-apps/app-newt/issues
-[newt-version-shield]: https://img.shields.io/badge/version-fa8dde8-blue.svg
+[newt-version-shield]: https://img.shields.io/badge/version-1b7ca11-blue.svg
 [newt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [newt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [newt-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
