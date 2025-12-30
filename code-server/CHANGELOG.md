@@ -20,3 +20,4 @@
 - ⬆️ Update esphome to v2025.12.1 @[renovate[bot]](https://github.com/apps/renovate) (#1000)
 - ⬆️ Update pkief/vscode-material-icon-theme to v5.30.0 @[renovate[bot]](https://github.com/apps/renovate) (#1002)
 - ⬆️ Update esphome to v2025.12.2 @[renovate[bot]](https://github.com/apps/renovate) (#1003)
+- ⬆️ Update esphome to v2025.12.3 @[renovate[bot]](https://github.com/apps/renovate) (#1004)
