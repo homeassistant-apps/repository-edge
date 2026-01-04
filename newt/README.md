@@ -30,7 +30,7 @@ This repository was created for:
 - Anybody interested in trying out upcoming add-ons or add-on features.
 - Developers.
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [release-shield]: https://img.shields.io/badge/version-1b7ca11-blue.svg
 [release]: https://github.com/homeassistant-apps/app-newt/tree/1b7ca11
