@@ -5,6 +5,11 @@
 ### 🧰 Maintenance
 
 - Run release drafter as last job in CI [@lmagyar](https://github.com/lmagyar) (#38)
+- Fix copy paste in translation [@brenner-tobias](https://github.com/brenner-tobias) (#41)
+
+### 📚 Documentation
+
+- Fix copy paste in translation [@brenner-tobias](https://github.com/brenner-tobias) (#41)
 
 ### ⬆️ Dependency updates
 
