@@ -1,5 +1,5 @@
 name: Newt
-version: b723293
+version: 7a5655a
 slug: newt
 description: Tunneling client to connect Home Assistant to Pangolin.
 url: https://github.com/homeassistant-apps/app-newt
