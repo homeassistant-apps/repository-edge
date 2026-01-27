@@ -12,6 +12,7 @@
 
 - Remove legacy architectures, Remove broken badges [@brenner-tobias](https://github.com/brenner-tobias) ([#960](https://github.com/homeassistant-apps/app-cloudflared/pull/960))
 - Add LICENSE.md [@brenner-tobias](https://github.com/brenner-tobias) ([#961](https://github.com/homeassistant-apps/app-cloudflared/pull/961))
+- Update Remote Managed Tunnel Documentation (Wiki) [@elcajon](https://github.com/elcajon) ([#973](https://github.com/homeassistant-apps/app-cloudflared/pull/973))
 
 ### ⬆️ Dependency updates
 
