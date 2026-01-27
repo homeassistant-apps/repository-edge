@@ -18,3 +18,4 @@
 - ⬆️ Update docker/setup-buildx-action action to v3.12.0 @[renovate[bot]](https://github.com/apps/renovate) ([#957](https://github.com/homeassistant-apps/app-cloudflared/pull/957))
 - ⬆️ Update yq to v4.47.2-r3 @[renovate[bot]](https://github.com/apps/renovate) ([#966](https://github.com/homeassistant-apps/app-cloudflared/pull/966))
 - ⬆️ Update cloudflared to v2026 @[renovate[bot]](https://github.com/apps/renovate) ([#968](https://github.com/homeassistant-apps/app-cloudflared/pull/968))
+- ⬆️ Update cloudflared to v2026.1.2 @[renovate[bot]](https://github.com/apps/renovate) ([#972](https://github.com/homeassistant-apps/app-cloudflared/pull/972))
