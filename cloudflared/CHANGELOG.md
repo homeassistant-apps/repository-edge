@@ -23,3 +23,4 @@
 - Update yq to 4.49.2-r2 [@elcajon](https://github.com/elcajon) ([#975](https://github.com/homeassistant-apps/app-cloudflared/pull/975))
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 @[renovate[bot]](https://github.com/apps/renovate) ([#974](https://github.com/homeassistant-apps/app-cloudflared/pull/974))
 - ⬆️ Update docker/login-action action to v3.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#976](https://github.com/homeassistant-apps/app-cloudflared/pull/976))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#977](https://github.com/homeassistant-apps/app-cloudflared/pull/977))
