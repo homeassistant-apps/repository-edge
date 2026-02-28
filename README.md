@@ -112,10 +112,10 @@ SOFTWARE.
 [cloudflared-version-shield]: https://img.shields.io/badge/version-41e47e5-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[addon-newt]: https://github.com/homeassistant-apps/app-newt/tree/d31abbc
-[addon-doc-newt]: https://github.com/homeassistant-apps/app-newt/blob/d31abbc/README.md
+[addon-newt]: https://github.com/homeassistant-apps/app-newt/tree/cca869b
+[addon-doc-newt]: https://github.com/homeassistant-apps/app-newt/blob/cca869b/README.md
 [newt-issue]: https://github.com/homeassistant-apps/app-newt/issues
-[newt-version-shield]: https://img.shields.io/badge/version-d31abbc-blue.svg
+[newt-version-shield]: https://img.shields.io/badge/version-cca869b-blue.svg
 [newt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [newt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/homeassistant-apps/repository-edge/badges/master/pipeline.svg
