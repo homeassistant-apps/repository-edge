@@ -14,3 +14,4 @@
 - ⬆️ Update docker/login-action action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#990](https://github.com/homeassistant-apps/app-cloudflared/pull/990))
 - ⬆️ Update docker/setup-qemu-action action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#991](https://github.com/homeassistant-apps/app-cloudflared/pull/991))
 - ⬆️ Update docker/setup-buildx-action action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#992](https://github.com/homeassistant-apps/app-cloudflared/pull/992))
+- ⬆️ Update docker/build-push-action action to v7 @[renovate[bot]](https://github.com/apps/renovate) ([#993](https://github.com/homeassistant-apps/app-cloudflared/pull/993))
