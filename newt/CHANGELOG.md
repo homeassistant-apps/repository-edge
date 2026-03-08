@@ -1,7 +1,7 @@
 # Changelog
 
-## Unreleased changes since 1.0.3 - 2026-02-27
+## Unreleased changes since 1.0.4 - 2026-03-06
 
-### 🧰 Maintenance
+### ⬆️ Dependency updates
 
-- Use homeassistant-apps/.github repo's release-drafter.yml [@lmagyar](https://github.com/lmagyar) ([#49](https://github.com/homeassistant-apps/app-newt/pull/49))
+- ⬆️ Update newt to v1.10.2 @[renovate[bot]](https://github.com/apps/renovate) ([#50](https://github.com/homeassistant-apps/app-newt/pull/50))
