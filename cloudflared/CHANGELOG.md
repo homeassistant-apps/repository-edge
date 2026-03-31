@@ -5,3 +5,7 @@
 ### 📚 Documentation
 
 - Add_updated_screenshots [@brenner-tobias](https://github.com/brenner-tobias) ([#998](https://github.com/homeassistant-apps/app-cloudflared/pull/998))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1000](https://github.com/homeassistant-apps/app-cloudflared/pull/1000))
