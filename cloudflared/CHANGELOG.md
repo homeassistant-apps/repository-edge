@@ -9,3 +9,4 @@
 ### ⬆️ Dependency updates
 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1000](https://github.com/homeassistant-apps/app-cloudflared/pull/1000))
+- Update yq to 4.49.2-r5 [@brenner-tobias](https://github.com/brenner-tobias) ([#1004](https://github.com/homeassistant-apps/app-cloudflared/pull/1004))
