@@ -8,3 +8,4 @@
 - ⬆️ Update newt to v1.12.0 @[renovate[bot]](https://github.com/apps/renovate) ([#58](https://github.com/homeassistant-apps/app-newt/pull/58))
 - ⬆️ Update newt to v1.12.1 @[renovate[bot]](https://github.com/apps/renovate) ([#59](https://github.com/homeassistant-apps/app-newt/pull/59))
 - ⬆️ Update newt to v1.12.2 @[renovate[bot]](https://github.com/apps/renovate) ([#60](https://github.com/homeassistant-apps/app-newt/pull/60))
+- ⬆️ Update newt to v1.12.3 @[renovate[bot]](https://github.com/apps/renovate) ([#61](https://github.com/homeassistant-apps/app-newt/pull/61))
