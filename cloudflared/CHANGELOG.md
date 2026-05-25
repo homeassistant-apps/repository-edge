@@ -1,8 +1,8 @@
 # Changelog
 
-## Unreleased changes since 7.0.6 - 2026-04-26
+## Unreleased changes since 7.0.7 - 2026-05-15
 
 ### ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1011](https://github.com/homeassistant-apps/app-cloudflared/pull/1011))
-- ⬆️ Update cloudflared to v2026.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1013](https://github.com/homeassistant-apps/app-cloudflared/pull/1013))
+- Update YQ version to 4.49.2-r6 in Dockerfile [@sir-Unknown](https://github.com/sir-Unknown) ([#1016](https://github.com/homeassistant-apps/app-cloudflared/pull/1016))
+- ⬆️ Update docker/build-push-action action to v7.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1017](https://github.com/homeassistant-apps/app-cloudflared/pull/1017))
