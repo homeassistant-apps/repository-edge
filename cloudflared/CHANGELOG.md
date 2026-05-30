@@ -9,3 +9,4 @@
 - ⬆️ Update docker/login-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1018](https://github.com/homeassistant-apps/app-cloudflared/pull/1018))
 - ⬆️ Update docker/setup-buildx-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1020](https://github.com/homeassistant-apps/app-cloudflared/pull/1020))
 - ⬆️ Update cloudflared to v2026.5.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1019](https://github.com/homeassistant-apps/app-cloudflared/pull/1019))
+- ⬆️ Update cloudflared to v2026.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1021](https://github.com/homeassistant-apps/app-cloudflared/pull/1021))
