@@ -12,3 +12,4 @@
 - ⬆️ Update cloudflared to v2026.5.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1021](https://github.com/homeassistant-apps/app-cloudflared/pull/1021))
 - ⬆️ Update docker/setup-qemu-action action to v4.1.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1022](https://github.com/homeassistant-apps/app-cloudflared/pull/1022))
 - ⬆️ Update cloudflared to v2026.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1025](https://github.com/homeassistant-apps/app-cloudflared/pull/1025))
+- ⬆️ Update App (Add-on) base image to v20.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1024](https://github.com/homeassistant-apps/app-cloudflared/pull/1024))
