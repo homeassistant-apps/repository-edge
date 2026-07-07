@@ -2,6 +2,10 @@
 
 ## Unreleased changes since 7.0.9 - 2026-06-24
 
+### 🧰 Maintenance
+
+- Refresh devcontainer [@felipecrs](https://github.com/felipecrs) ([#1031](https://github.com/homeassistant-apps/app-cloudflared/pull/1031))
+
 ### ⬆️ Dependency updates
 
 - ⬆️ Update docker/build-push-action action to v7.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1032](https://github.com/homeassistant-apps/app-cloudflared/pull/1032))
