@@ -13,3 +13,4 @@
 - ⬆️ Update docker/setup-qemu-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1036](https://github.com/homeassistant-apps/app-cloudflared/pull/1036))
 - ⬆️ Update docker/setup-buildx-action action to v4.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1035](https://github.com/homeassistant-apps/app-cloudflared/pull/1035))
 - ⬆️ Update ghcr.io/home-assistant/devcontainer Docker tag to v6 @[renovate[bot]](https://github.com/apps/renovate) ([#1037](https://github.com/homeassistant-apps/app-cloudflared/pull/1037))
+- ⬆️ Update cloudflared to v2026.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1038](https://github.com/homeassistant-apps/app-cloudflared/pull/1038))
