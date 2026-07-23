@@ -9,3 +9,4 @@
 ### ⬆️ Dependency updates
 
 - ⬆️ Update cloudflared to v2026.7.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1043](https://github.com/homeassistant-apps/app-cloudflared/pull/1043))
+- ⬆️ Update docker/login-action action to v4.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1044](https://github.com/homeassistant-apps/app-cloudflared/pull/1044))
