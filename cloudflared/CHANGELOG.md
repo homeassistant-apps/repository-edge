@@ -1,7 +1,7 @@
 # Changelog
 
-## Unreleased changes since 7.0.12 - 2026-08-07
+## Unreleased changes since 7.0.13 - 2026-08-08
 
-### 🐛 Bug fixes
+### ⬆️ Dependency updates
 
-- fix: ha_config_file could still overwrite ssl parameter when already set  [@RonaldPhilipsen](https://github.com/RonaldPhilipsen) ([#1057](https://github.com/homeassistant-apps/app-cloudflared/pull/1057))
+- ⬆️ Update cloudflared to v2026.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1064](https://github.com/homeassistant-apps/app-cloudflared/pull/1064))
