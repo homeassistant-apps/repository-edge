@@ -5,3 +5,4 @@
 ### ⬆️ Dependency updates
 
 - ⬆️ Update cloudflared to v2026.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1064](https://github.com/homeassistant-apps/app-cloudflared/pull/1064))
+- ⬆️ Update cloudflared to v2026.8.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1065](https://github.com/homeassistant-apps/app-cloudflared/pull/1065))
