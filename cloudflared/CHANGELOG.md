@@ -14,3 +14,4 @@
 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1068](https://github.com/homeassistant-apps/app-cloudflared/pull/1068))
 - ⬆️ Update docker/setup-buildx-action action to v4.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1070](https://github.com/homeassistant-apps/app-cloudflared/pull/1070))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#1072](https://github.com/homeassistant-apps/app-cloudflared/pull/1072))
