@@ -6,6 +6,10 @@
 
 - Optimize run.sh [@brenner-tobias](https://github.com/brenner-tobias) ([#1071](https://github.com/homeassistant-apps/app-cloudflared/pull/1071))
 
+### 🧰 Maintenance
+
+- change from addons to app [@PauloGoncalves86](https://github.com/PauloGoncalves86) ([#1077](https://github.com/homeassistant-apps/app-cloudflared/pull/1077))
+
 ### 📚 Documentation
 
 - Remove add-on references [@brenner-tobias](https://github.com/brenner-tobias) ([#1069](https://github.com/homeassistant-apps/app-cloudflared/pull/1069))
