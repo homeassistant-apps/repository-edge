@@ -13,6 +13,7 @@
 ### 📚 Documentation
 
 - Remove add-on references [@brenner-tobias](https://github.com/brenner-tobias) ([#1069](https://github.com/homeassistant-apps/app-cloudflared/pull/1069))
+- Add portuguese translation [@PauloGoncalves86](https://github.com/PauloGoncalves86) ([#1079](https://github.com/homeassistant-apps/app-cloudflared/pull/1079))
 
 ### ⬆️ Dependency updates
 
