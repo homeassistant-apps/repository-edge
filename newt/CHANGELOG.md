@@ -10,3 +10,4 @@
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 @[renovate[bot]](https://github.com/apps/renovate) ([#75](https://github.com/homeassistant-apps/app-newt/pull/75))
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 @[renovate[bot]](https://github.com/apps/renovate) ([#76](https://github.com/homeassistant-apps/app-newt/pull/76))
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 @[renovate[bot]](https://github.com/apps/renovate) ([#77](https://github.com/homeassistant-apps/app-newt/pull/77))
+- ⬆️ Update newt to v1.17.0 @[renovate[bot]](https://github.com/apps/renovate) ([#78](https://github.com/homeassistant-apps/app-newt/pull/78))
