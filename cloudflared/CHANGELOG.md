@@ -1,10 +1,8 @@
 # Changelog
 
-## Unreleased changes since 7.0.17 - 2026-09-28
+## Unreleased changes since 7.0.18 - 2026-10-16
 
 ### ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 @[renovate[bot]](https://github.com/apps/renovate) ([#1097](https://github.com/homeassistant-apps/app-cloudflared/pull/1097))
-- ⬆️ Update cloudflared to v2026.10.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1098](https://github.com/homeassistant-apps/app-cloudflared/pull/1098))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 @[renovate[bot]](https://github.com/apps/renovate) ([#1099](https://github.com/homeassistant-apps/app-cloudflared/pull/1099))
-- ⬆️ Update cloudflared to v2026.10.1 @[renovate[bot]](https://github.com/apps/renovate) ([#1101](https://github.com/homeassistant-apps/app-cloudflared/pull/1101))
+- Update yq to 4.53.3-r2 [@elcajon](https://github.com/elcajon) ([#1104](https://github.com/homeassistant-apps/app-cloudflared/pull/1104))
+- ⬆️ Update cloudflared to v2026.10.2 @[renovate[bot]](https://github.com/apps/renovate) ([#1103](https://github.com/homeassistant-apps/app-cloudflared/pull/1103))
