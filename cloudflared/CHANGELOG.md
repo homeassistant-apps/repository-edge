@@ -2,19 +2,7 @@
 
 ## Unreleased changes since 7.0.19 - 2026-10-22
 
-* No changes
+### ⬆️ Dependency updates
 
-
----
-
-> [!WARNING]
-Release Drafter could not find a previous **published release** for `homeassistant-apps/app-cloudflared`. This draft was created **without a comparison baseline**.
-
-> [!IMPORTANT]
-Treat this draft as a manual starting point.
-Review the proposed version, tag, and notes before publishing.
-
-If you did not expect this to happen, [open an issue](https://github.com/release-drafter/release-drafter/issues/new?template=previous-published-release-not-found.yml).
-
-
----
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 @[renovate[bot]](https://github.com/apps/renovate) ([#1107](https://github.com/homeassistant-apps/app-cloudflared/pull/1107))
+- ⬆️ Update docker/login-action action to v4.7.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1108](https://github.com/homeassistant-apps/app-cloudflared/pull/1108))
